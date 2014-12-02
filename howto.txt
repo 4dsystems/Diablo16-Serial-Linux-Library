@@ -1,0 +1,6 @@
+Upload to RPI
+cd to directory
+
+make
+make install
+ldconfig
